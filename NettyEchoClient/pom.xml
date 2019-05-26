@@ -8,5 +8,16 @@
     <artifactId>netty</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/io.netty/netty-handler -->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-handler</artifactId>
+            <version>4.0.33.Final</version>
+        </dependency>
+
+    </dependencies>
+
 
 </project>
